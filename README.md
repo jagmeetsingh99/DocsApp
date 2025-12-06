@@ -1,16 +1,97 @@
-# React + Vite
+# DocsApp – Document Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DocsApp is a React-based document management application designed to help users add, view, and delete document cards with a clean and modern interface. It leverages smooth animations to improve usability and deliver a delightful user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* *Document management system* with add, view, and delete operations.
+* *Clean and intuitive UI* using component-based architecture.
+* *Smooth animations* implemented with Framer Motion.
+* *Motion-based feedback* to enhance usability and interactions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* *React JS*
+* *JavaScript*
+* *Tailwind CSS*
+* *Framer Motion*
+
+---
+
+## 🔗 Links
+
+* *Live Demo:* [https://docs-app-opal.vercel.app/](https://docs-app-opal.vercel.app/)
+* *Repository:* [https://github.com/jagmeetsingh99/DocsApp](https://github.com/jagmeetsingh99/DocsApp)
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+
+   bash
+   git clone https://github.com/jagmeetsingh99/DocsApp.git
+   
+2. Navigate to the project directory:
+
+   bash
+   cd DocsApp
+   
+3. Install dependencies:
+
+   bash
+   npm install
+   
+4. Start the development server:
+
+   bash
+   npm run dev
+   
+
+---
+
+## 📚 Usage
+
+1. Add new document cards using the input form.
+2. View stored documents displayed as interactive cards.
+3. Delete unwanted documents with one click.
+
+---
+
+## 🎨 UI and Animations
+
+DocsApp uses *Framer Motion* to create smooth transitions and hover effects.
+
+Examples include:
+
+* Fade-in effects on mount
+* Hover scale animations
+* Motion-based visual feedback when interacting with cards
+
+---
+
+## 🧪 Future Enhancements
+
+* Search and filter functionality
+* Tag-based organization
+* Cloud storage integration
+* Drag-and-drop support
+
+---
+
+## 🙌 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Fork the repo and submit a pull request.
+
+---
+
+
+---
+
+⭐ If you like this project, consider starring the repository!
